@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/expenditure_activity"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ExpenditureActivity">
+
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fabExpense"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_marginBottom="50dp"
+        app:srcCompat="@android:drawable/ic_input_add"
+        tools:ignore="ContentDescription"
+        tools:layout_editor_absoluteX="354dp"
+        tools:layout_editor_absoluteY="659dp" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/expenditure_recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="16dp"
+        android:padding="@dimen/recycler_padding"
+        android:visibility="visible" />
+
+    <include layout="@layout/activity_bottom_sheet"/>
+
+    <TextView
+        android:id="@+id/textView51"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="110dp"
+        android:gravity="center"
+        android:text="My Expenses"
+        android:textAlignment="center"
+        android:textColor="#E91E63"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/bottom_nav_expenditure"
+        app:menu="@menu/menu_bg"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        app:layout_anchor="@+id/expenditure_recyclerView"
+        app:layout_anchorGravity="bottom|center" />
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

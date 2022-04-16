@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/androidprojos/FarmTrack/app/src/main/res/drawable-v24/gradient_bg.xml" value="0.2078125" />
+        <entry key="..\:/androidprojos/FarmTrack/app/src/main/res/drawable-v24/inputoutline.xml" value="0.2078125" />
+        <entry key="..\:/androidprojos/FarmTrack/app/src/main/res/drawable/bg_card_home.xml" value="0.2078125" />
+        <entry key="..\:/androidprojos/FarmTrack/app/src/main/res/drawable/bg_constr.xml" value="0.2078125" />
+        <entry key="..\:/androidprojos/FarmTrack/app/src/main/res/drawable/bg_hometitle.xml" value="0.2078125" />
+        <entry key="..\:/androidprojos/FarmTrack/app/src/main/res/drawable/border_entry.xml" value="0.2078125" />
+        <entry key="..\:/androidprojos/FarmTrack/app/src/main/res/drawable/cash_input.xml" value="0.2078125" />
+        <entry key="..\:/androidprojos/FarmTrack/app/src/main/res/drawable/ic_baseline_arrow_circle_up_24.xml" value="0.2078125" />
+        <entry key="..\:/androidprojos/FarmTrack/app/src/main/res/drawable/ic_baseline_calendar_today_24.xml" value="0.2078125" />
+        <entry key="..\:/androidprojos/FarmTrack/app/src/main/res/drawable/ic_baseline_map_24.xml" value="0.2078125" />
+        <entry key="..\:/androidprojos/FarmTrack/app/src/main/res/drawable/ic_baseline_next_week_24.xml" value="0.2078125" />
+        <entry key="..\:/androidprojos/FarmTrack/app/src/main/res/drawable/ic_baseline_outlined_flag_24.xml" value="0.2078125" />
+        <entry key="..\:/androidprojos/FarmTrack/app/src/main/res/drawable/ic_baseline_today_24.xml" value="0.2078125" />
+        <entry key="..\:/androidprojos/FarmTrack/app/src/main/res/drawable/ic_baseline_wb_sunny_24.xml" value="0.2078125" />
+        <entry key="..\:/androidprojos/FarmTrack/app/src/main/res/layout/activity_bottom_sheet.xml" value="0.19166666666666668" />
+        <entry key="..\:/androidprojos/FarmTrack/app/src/main/res/layout/activity_expenditure.xml" value="0.19166666666666668" />
+        <entry key="..\:/androidprojos/FarmTrack/app/src/main/res/layout/activity_home_page.xml" value="0.19166666666666668" />
+        <entry key="..\:/androidprojos/FarmTrack/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/androidprojos/FarmTrack/app/src/main/res/layout/activity_main.xml" value="0.19166666666666668" />
+        <entry key="..\:/androidprojos/FarmTrack/app/src/main/res/layout/activity_news.xml" value="0.19166666666666668" />
+        <entry key="..\:/androidprojos/FarmTrack/app/src/main/res/layout/activity_plan.xml" value="0.19166666666666668" />
+        <entry key="..\:/androidprojos/FarmTrack/app/src/main/res/layout/activity_plan_bottom_sheet_layout.xml" value="0.19166666666666668" />
+        <entry key="..\:/androidprojos/FarmTrack/app/src/main/res/layout/activity_profile.xml" value="0.19166666666666668" />
+        <entry key="..\:/androidprojos/FarmTrack/app/src/main/res/layout/activity_question.xml" value="0.19166666666666668" />
+        <entry key="..\:/androidprojos/FarmTrack/app/src/main/res/layout/activity_question_list.xml" value="0.19166666666666668" />
+        <entry key="..\:/androidprojos/FarmTrack/app/src/main/res/layout/activity_register.xml" value="0.17760416666666667" />
+        <entry key="..\:/androidprojos/FarmTrack/app/src/main/res/layout/activity_sales.xml" value="0.19166666666666668" />
+        <entry key="..\:/androidprojos/FarmTrack/app/src/main/res/layout/activity_submition.xml" value="0.25" />
+        <entry key="..\:/androidprojos/FarmTrack/app/src/main/res/layout/activity_tip.xml" value="0.19166666666666668" />
+        <entry key="..\:/androidprojos/FarmTrack/app/src/main/res/layout/expenditure_row.xml" value="0.19166666666666668" />
+        <entry key="..\:/androidprojos/FarmTrack/app/src/main/res/layout/journal_row.xml" value="0.19166666666666668" />
+        <entry key="..\:/androidprojos/FarmTrack/app/src/main/res/layout/news_row.xml" value="0.19166666666666668" />
+        <entry key="..\:/androidprojos/FarmTrack/app/src/main/res/layout/plan_row.xml" value="0.19166666666666668" />
+        <entry key="..\:/androidprojos/FarmTrack/app/src/main/res/layout/sales_row.xml" value="0.19166666666666668" />
+        <entry key="..\:/androidprojos/FarmTrack/app/src/main/res/layout/tip_layout.xml" value="0.19166666666666668" />
+        <entry key="..\:/androidprojos/FarmTrack/app/src/main/res/layout/tip_row.xml" value="0.19166666666666668" />
+        <entry key="..\:/androidprojos/FarmTrack/app/src/main/res/layout/todo_row.xml" value="0.19166666666666668" />
+        <entry key="..\:/androidprojos/FarmTrack/app/src/main/res/menu/menu.xml" value="0.19166666666666668" />
+        <entry key="..\:/androidprojos/FarmTrack/app/src/main/res/menu/menu1.xml" value="0.19166666666666668" />
+        <entry key="..\:/androidprojos/FarmTrack/app/src/main/res/menu/menu_bg.xml" value="0.19166666666666668" />
+        <entry key="..\:/androidprojos/FarmTrack/app/src/main/res/mipmap-anydpi-v26/ic_launcher_home.xml" value="0.2078125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

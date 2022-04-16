@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">FarmTrack</string>
+    <string name="menu_title">Add thought</string>
+    <string name="signout">Signout</string>
+    <string name="news">The execution of this mandate is through the company\'s 360o media strength, and leveraging on strategic partnerships with corporates, National and County governments, specialized agricultural agencies, higher education and technical institutions, local and international development and research organizations, as well as the UN and its agencies, among others. The media platforms under the FarmKenya</string>
+    <string name="today">today</string>
+    <string name="ploughing">Ploughing</string>
+    <string name="chemicals">Chemicals</string>
+    <string name="enter_todo_hint">ploughing on friday</string>
+    <string name="image_description">button image</string>
+    <string name="tomorrow">tomorrow</string>
+    <string name="next_week">next week</string>
+    <string name="due_date_text">due date</string>
+    <string name="radio_high">high</string>
+    <string name="radio_med">Medium</string>
+    <string name="radio_low">Low</string>
+    <string name="empty_field">empty fielsd</string>
+    <string name="no_thoughts_hint">no list of questions</string>
+    <string name="thought">thought</string>
+    <string name="date_created">date</string>
+    <string name="title">title</string>
+    <string name="map">map</string>
+    <string name="parks">news</string>
+    <string name="home">home</string>
+    <string name="sal">sales</string>
+    <string name="mynews">news</string>
+    <string name="plan">plans</string>
+    <string name="expense">expense</string>
+    <string name="TIP">Tips</string>
+    <string name="menu_nam">home</string>
+</resources>

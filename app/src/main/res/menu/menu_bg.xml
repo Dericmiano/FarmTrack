@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/tip_nav_menu"
+        android:icon="@drawable/ic_baseline_verified_24"
+        app:showAsAction="ifRoom"
+        android:title="@string/TIP" >
+    </item>
+    <item
+        android:id="@+id/news_nav_menu"
+        android:icon="@drawable/ic_baseline_help_center_24"
+        app:showAsAction="ifRoom"
+        android:title="@string/mynews" />
+    <item
+        android:id="@+id/sales_nav_menu"
+        android:icon="@drawable/ic_baseline_hub_24"
+        app:showAsAction="ifRoom"
+        android:title="@string/sal" />
+    <item
+        android:id="@+id/plan_nav_menu"
+        android:icon="@drawable/ic_baseline_next_plan_24"
+        app:showAsAction="ifRoom"
+        android:title="@string/plan" />
+    <item
+        android:id="@+id/expense_nav_menu"
+        android:icon="@drawable/ic_baseline_monetization_on_24"
+        app:showAsAction="ifRoom"
+        android:title="@string/expense" />
+
+</menu>

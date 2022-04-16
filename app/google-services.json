@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "848697202838",
+    "project_id": "farmtrack-44344",
+    "storage_bucket": "farmtrack-44344.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848697202838:android:992871885f602dd40e4ab7",
+        "android_client_info": {
+          "package_name": "com.example.farmtrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848697202838-mt4njvpf67clfi9o3pav3s2kh77s5nuc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6v1l2utQUIef9Z8TqUqwdDB22TXE5cKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848697202838-mt4njvpf67clfi9o3pav3s2kh77s5nuc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
